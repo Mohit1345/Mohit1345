@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFoCM-wXus/uLlrHDXN5jTbua6nCxYcNQ/edit?utm_content=DAFoCM-wXus&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="linkedin_banner">
+<img src="https://drive.google.com/file/d/177EeMo6iqx2XiFVtKyFdolatlj-E2NGf/view" alt="linkedin_banner">
 <h1 align="center">Hi 👋, I'm Mohit Chawla</h1>
 <h3 align="center">A enthusiastic Ai & Automation developer from India</h3>
 
