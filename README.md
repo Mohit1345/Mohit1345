@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/177EeMo6iqx2XiFVtKyFdolatlj-E2NGf/view" alt="linkedin_banner">
+<img src="Black Technology LinkedIn Banner.png" alt="linkedin_banner">
 <h1 align="center">Hi 👋, I'm Mohit Chawla</h1>
 <h3 align="center">A enthusiastic Ai & Automation developer from India</h3>
 
