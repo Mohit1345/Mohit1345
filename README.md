@@ -29,5 +29,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit1345&show_icons=true&locale=en&layout=compact" alt="mohit1345" /></p>
 
-
-[![Mohit1345's GitHub | Stats](https://stats.quine.sh/Mohit1345/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Mohit1345)
