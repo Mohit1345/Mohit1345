@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Chawla</h1>
 <h3 align="center">A enthusiastic Ai & Automation developer from India</h3>
 
-- 🔭 I’m currently working on [MohScraper](https://github.com/Mohit1345/MohScraper)
+- 🔭 I’m currently working on [Editai](editai.in)
 
 - 🌱 I’m currently learning **Pytorch**
 
